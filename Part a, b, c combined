@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+    <form method=post action="location and file name">
+    <b>1. Are you a vegetarian or a non-vegetarian?</b><br>
+    <input type=checkbox name="vegetarian" value="y"> Vegetarian<br>
+    <input type=checkbox name="non-vegetarian" value="y"> Non-vegetarian<br>
+    <b>2. What is your profession?</b><br>
+     <select name="menu" multiple size=4>
+    <option>Teaching
+    <option selected>Research
+    <option>Medicine 
+    <option>OClerical
+    <option>Engineering 
+    <option>Business
+    <option>Others
+    </select><br>
+    <b>3. Type your comments on our food items below</b><br>
+    <textarea name="comment" rows=5 cols=50></textarea><br>
+    </body>
+    </html>
