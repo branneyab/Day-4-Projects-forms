@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+    <h1>HTML form</h1>
+    First name:
+    <input type=text name="name" size=30><br>
+    <br>
+    Last name: 
+    <input type=text name="name" size=30><br>
+    <br>
+    E-mail:
+    <input type=text name="name" size=30><br>
+    <br>
+    <input type=radio name="fun" value="y"> Male<br>
+    <br>
+    <input type=radio name="fun" value="y"> Female<br>
+    <br>
+    <input type=Submit value="Submit" name="submit">
+    <input type=reset value="Reset" name="reset"><br>
+    </body>
+    </html>
